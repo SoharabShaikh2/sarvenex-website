@@ -1,0 +1,56 @@
+[
+  {
+    "title":"Business Operations Platform",
+    "category":"Software / Platform",
+    "description":"A modern business platform concept bringing workflows, dashboards, approvals and operational data into one focused experience.",
+    "technologies":[".NET","Angular","Azure"],
+    "image":"assets/img/projects/business-platform.svg",
+    "url":"",
+    "featured":true
+  },
+  {
+    "title":"AI Knowledge Assistant",
+    "category":"AI / Automation",
+    "description":"An AI workspace concept for searching internal knowledge, generating useful answers and automating repetitive business tasks.",
+    "technologies":["Python","AI","APIs"],
+    "image":"assets/img/projects/ai-assistant.svg",
+    "url":"",
+    "featured":true
+  },
+  {
+    "title":"Commerce Experience",
+    "category":"Web / eCommerce",
+    "description":"A conversion-focused commerce experience concept designed for product discovery, checkout and scalable online growth.",
+    "technologies":["React","Shopify","PHP"],
+    "image":"assets/img/projects/commerce.svg",
+    "url":"",
+    "featured":true
+  },
+  {
+    "title":"Mobile Product Suite",
+    "category":"Mobile App",
+    "description":"A mobile product concept with a clean customer journey, secure APIs and a consistent experience across iOS and Android.",
+    "technologies":["iOS","Android","React Native"],
+    "image":"assets/img/projects/mobile-app.svg",
+    "url":"",
+    "featured":true
+  },
+  {
+    "title":"Cloud Delivery Platform",
+    "category":"Cloud / DevOps",
+    "description":"A cloud delivery concept covering deployment automation, environments, observability and reliable release workflows.",
+    "technologies":["Azure","AWS","Docker","DevOps"],
+    "image":"assets/img/projects/cloud-devops.svg",
+    "url":"",
+    "featured":true
+  },
+  {
+    "title":"Digital Growth System",
+    "category":"Digital Marketing",
+    "description":"A digital growth concept connecting content, search, campaigns and analytics into a measurable customer acquisition workflow.",
+    "technologies":["SEO","Analytics","Automation"],
+    "image":"assets/img/projects/digital-growth.svg",
+    "url":"",
+    "featured":true
+  }
+]
