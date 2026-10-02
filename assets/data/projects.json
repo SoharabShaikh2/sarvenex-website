@@ -1,56 +1,56 @@
 [
   {
-    "title":"Business Operations Platform",
-    "category":"Software / Platform",
-    "description":"A modern business platform concept bringing workflows, dashboards, approvals and operational data into one focused experience.",
-    "technologies":[".NET","Angular","Azure"],
-    "image":"assets/img/projects/business-platform.svg",
-    "url":"",
-    "featured":true
+    "title": "Rifarahi E-Commerce App",
+    "category": "Mobile App",
+    "description": "A feature-rich mobile e-commerce platform designed to deliver seamless shopping experiences, instant product discovery, and fast checkout on both iOS and Android.",
+    "technologies": ["React Native", "iOS", "Android", "REST APIs"],
+    "image": "assets/img/projects/rafarahi.svg",
+    "url": "",
+    "featured": true
   },
   {
-    "title":"AI Knowledge Assistant",
-    "category":"AI / Automation",
-    "description":"An AI workspace concept for searching internal knowledge, generating useful answers and automating repetitive business tasks.",
-    "technologies":["Python","AI","APIs"],
-    "image":"assets/img/projects/ai-assistant.svg",
-    "url":"",
-    "featured":true
+    "title": "Redmone E-Commerce App",
+    "category": "Mobile App",
+    "description": "A high-performance cross-platform retail app equipped with real-time order tracking, personalized recommendations, and secure payment integrations.",
+    "technologies": ["React Native", "iOS", "Android", "Redux"],
+    "image": "assets/img/projects/redmone.svg",
+    "url": "",
+    "featured": true
   },
   {
-    "title":"Commerce Experience",
-    "category":"Web / eCommerce",
-    "description":"A conversion-focused commerce experience concept designed for product discovery, checkout and scalable online growth.",
-    "technologies":["React","Shopify","PHP"],
-    "image":"assets/img/projects/commerce.svg",
-    "url":"",
-    "featured":true
+    "title": "Impay Legal Documentation",
+    "category": "Web Application",
+    "description": "An automated legal tech workspace enabling streamlined contract creation, digital signature workflows, and compliant document management.",
+    "technologies": ["React", "Node.js", "Express", "MongoDB"],
+    "image": "assets/img/projects/impay.svg",
+    "url": "",
+    "featured": true
   },
   {
-    "title":"Mobile Product Suite",
-    "category":"Mobile App",
-    "description":"A mobile product concept with a clean customer journey, secure APIs and a consistent experience across iOS and Android.",
-    "technologies":["iOS","Android","React Native"],
-    "image":"assets/img/projects/mobile-app.svg",
-    "url":"",
-    "featured":true
+    "title": "Legtech Fintech Platform",
+    "category": "Fintech / Platform",
+    "description": "A robust fintech platform built for secure digital transactions, automated ledger management, and scalable real-time financial reporting.",
+    "technologies": ["React", "NestJS", "PostgreSQL", "Redis"],
+    "image": "assets/img/projects/legtech.svg",
+    "url": "",
+    "featured": true
   },
   {
-    "title":"Cloud Delivery Platform",
-    "category":"Cloud / DevOps",
-    "description":"A cloud delivery concept covering deployment automation, environments, observability and reliable release workflows.",
-    "technologies":["Azure","AWS","Docker","DevOps"],
-    "image":"assets/img/projects/cloud-devops.svg",
-    "url":"",
-    "featured":true
+    "title": "Dewflix HealthCare",
+    "category": "Healthcare / Web",
+    "description": "A user-centric healthcare web portal offering virtual consultation booking, patient record management, and responsive medical resource hubs.",
+    "technologies": ["HTML5", "CSS3", "JavaScript", "Tailwind CSS", "Bootstrap"],
+    "image": "assets/img/projects/dewflix.svg",
+    "url": "",
+    "featured": true
   },
   {
-    "title":"Digital Growth System",
-    "category":"Digital Marketing",
-    "description":"A digital growth concept connecting content, search, campaigns and analytics into a measurable customer acquisition workflow.",
-    "technologies":["SEO","Analytics","Automation"],
-    "image":"assets/img/projects/digital-growth.svg",
-    "url":"",
-    "featured":true
+    "title": "Real Estate Platform",
+    "category": "Web Platform",
+    "description": "An interactive real estate portal featuring high-definition property listings, virtual tours, filtered geographical search, and direct agent inquiries.",
+    "technologies": ["Next.js", "TypeScript", "Tailwind CSS", "GraphQL"],
+    "image": "assets/img/projects/jamidaar.svg",
+    "url": "",
+    "featured": true
   }
 ]
